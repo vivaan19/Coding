@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1605359993 source:v:\coding\patterns using loops\triangle_pattern\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

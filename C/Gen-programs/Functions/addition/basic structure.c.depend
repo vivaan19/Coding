@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1585993954 source:v:\c programs college\strings\without using string header\basic structure.c\main.c
+	<stdio.h>
+	<stdlib.h>
+

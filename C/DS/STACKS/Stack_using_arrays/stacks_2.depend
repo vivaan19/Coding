@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1603429940 source:v:\coding\data-structures\stacks\stacks_2\stacks_2.c
+	<stdio.h>
+	<stdlib.h>
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1590847698 source:c:\users\vivaan\desktop\switch-case\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+

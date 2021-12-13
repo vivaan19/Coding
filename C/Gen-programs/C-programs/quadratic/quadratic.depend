@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1590811783 source:c:\users\vivaan\desktop\quadratic\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+

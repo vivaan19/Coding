@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1585246395 source:v:\c programs college\strings\strlength.c\strlength.c
+	<stdio.h>
+	<stdlib.h>
+

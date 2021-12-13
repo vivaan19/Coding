@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1610178216 source:v:\coding\c\memory allocations in c\memory_alloc\main.c
+	<stdio.h>
+	<stdlib.h>
+

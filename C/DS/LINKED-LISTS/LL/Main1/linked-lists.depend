@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1599377722 source:c:\users\vivaan\desktop\linked-lists\main.c
+	<stdio.h>
+	<stdlib.h>
+

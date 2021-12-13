@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1590853522 source:c:\users\vivaan\desktop\grade-switch-case\main.c
+	<stdio.h>
+	<stdlib.h>
+

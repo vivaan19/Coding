@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1585379601 source:v:\c programs college\strings\palindrom.c\palindrome.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

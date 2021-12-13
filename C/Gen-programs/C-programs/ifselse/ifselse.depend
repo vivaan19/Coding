@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1590768142 source:c:\users\vivaan\desktop\ifselse\main.c
+	<stdio.h>
+	<stdlib.h>
+

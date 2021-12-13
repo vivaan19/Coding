@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1598641790 source:c:\users\vivaan\desktop\dma\main.c
+	<stdio.h>
+	<stdlib.h>
+

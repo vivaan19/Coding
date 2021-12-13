@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1590944448 source:c:\users\vivaan\desktop\palindrome-reverse\main.c
+	<stdio.h>
+	<stdlib.h>
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1586715360 source:v:\c programs college\functions\area of a circle\main.c
+	<stdio.h>
+	<stdlib.h>
+

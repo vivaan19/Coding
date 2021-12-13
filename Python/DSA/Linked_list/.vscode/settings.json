@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "*.html": "django-html",
+        "q-1.C": "cpp",
+        "Q-2.C": "cpp"
+    }
+}

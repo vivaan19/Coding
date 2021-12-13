@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1591069078 source:c:\users\vivaan\desktop\c-programs\small-large-array\main.c
+	<stdio.h>
+	<stdlib.h>
+

@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1605506221 source:v:\vivaan-college\coding\hacker-rank\students_marks_sum\main.c
+	<stdio.h>
+	<string.h>
+	<math.h>
+	<stdlib.h>
+

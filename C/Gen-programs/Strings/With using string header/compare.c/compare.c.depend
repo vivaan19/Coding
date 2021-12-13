@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1514140574 source:v:\c programs college\strings\compare.c\main.c
+	<stdio.h>
+	<stdlib.h>
+
